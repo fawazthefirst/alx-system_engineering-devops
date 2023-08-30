@@ -13,3 +13,4 @@ Script to list all files in both working and parent directory
 Adds file type
 Symbolic links
 Copy html files
+Moving uppercase files
