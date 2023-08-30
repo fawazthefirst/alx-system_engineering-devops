@@ -15,3 +15,5 @@ Symbolic links
 Copy html files
 Moving uppercase files
 Clean text editor
+Welcome/to/school
+Listings
