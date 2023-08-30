@@ -1,9 +1,2 @@
 #!/bin/bash
-echo "Current directory:"
-ls -la
-cd ..
-echo "Parent directory:"
-ls -la
-cd /boot
-echo "/boot directory:"
-ls -la
+ls -la cd .. ls -la cd /boot ls -la
