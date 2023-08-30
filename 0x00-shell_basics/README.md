@@ -14,3 +14,4 @@ Adds file type
 Symbolic links
 Copy html files
 Moving uppercase files
+Clean text editor
