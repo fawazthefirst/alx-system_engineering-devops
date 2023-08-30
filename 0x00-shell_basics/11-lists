@@ -1,2 +1,12 @@
 #!/bin/bash
-ls -la cd .. ls -la cd /boot ls -la
+
+if [ 1 ]; then
+    ls -la
+    cd ..
+    ls -la
+fi
+
+if [ 1 ]; then
+    cd /boot
+    ls -la
+fi
