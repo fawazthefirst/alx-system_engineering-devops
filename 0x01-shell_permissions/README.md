@@ -16,3 +16,4 @@ Create a script that adds execute permission to all subdirectories of the curren
 13. Write a script that changes the group owner to school for the file hello
 14. Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
 Write a script that changes the owner and the group owner of _hello to vincent and staff respectively
+Write a script that changes the owner and the group owner of _hello to vincent and staff respectively
